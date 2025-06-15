@@ -1,2 +1,2 @@
 # MediMeet
-Doctors
+Doctor App
