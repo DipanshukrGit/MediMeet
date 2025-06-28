@@ -2,46 +2,35 @@
 
 ![MediMeet Cover](./public/cover.gif)
 
-A powerful, modern, **SaaS-based doctors appointment platform** built with:
+**MediMeet** is a modern, scalable, and responsive **SaaS-based Doctors Appointment Platform** built with the latest full stack technologies.
 
-🚀 **Next.js 14**,  
-🎨 **Tailwind CSS**,  
-🌈 **Shadcn UI**,  
-🗃️ **Neon Postgres DB**,  
-📹 **Vonage Video API**,  
-📆 Real-time Slot Booking  
-🔒 Secure Auth (coming soon...)
-
-> 👨‍⚕️ Book appointments, join live video consultations with doctors, and manage schedules — all in one responsive platform!
+> 👨‍⚕️ Patients can **book appointments**, **video call doctors**, and **manage sessions**, while doctors can manage their availability — all in real-time and securely via **Clerk authentication**.
 
 ---
 
-## ✨ Features
+## 🧠 Key Features
 
-- ✅ **Book appointments** in real-time based on doctor's available slots
-- 🎥 **Vonage video call** support to connect patients with doctors
-- 📅 **Dynamic slot management** for flexible appointment timings
-- 🌐 **Fully responsive UI** – works smoothly on mobile, tablet, and desktop
-- 🎨 **Clean & modern design** with Tailwind + Shadcn UI
-- 🔌 **API integrated** backend with secure endpoints
-- 🌍 **Deployed-ready** SaaS structure
-- 🧠 Easy to extend with authentication, payments, and admin dashboard
+- ✅ Book appointments based on real-time doctor availability
+- 🔐 User authentication & role management with **Clerk**
+- 📹 Seamless live **video calls with Vonage**
+- 📆 Dynamic time slot selection and management
+- 🖥️ Beautiful responsive UI with dark/light mode
+- 🚀 SaaS-ready structure with extendable backend
+- 🎯 Clean code architecture using App Router and modular components
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology   | Description                              |
-|--------------|------------------------------------------|
-| **Next.js 14** | Full-stack React framework (App Router) |
-| **Tailwind CSS** | Utility-first modern styling          |
-| **Shadcn UI** | Accessible and customizable UI library  |
-| **Neon DB**   | Serverless PostgreSQL (Fast & Scalable) |
-| **Vonage API** | Live video call integration             |
-| **Lucide Icons** | Clean, beautiful SVG icons            |
-| **GSAP (optional)** | For slick animations & transitions |
+| Technology       | Purpose                                  |
+|------------------|------------------------------------------|
+| **Next.js 14**   | Full-stack React framework               |
+| **Tailwind CSS** | Utility-first styling                    |
+| **Shadcn UI**    | Elegant, accessible UI components        |
+| **Clerk**        | Authentication & user management         |
+| **Neon**         | Scalable PostgreSQL database             |
+| **Vonage Video API** | Real-time video consultations       |
+| **Lucide Icons** | Minimalistic and modern icons            |
+| **GSAP** (optional) | Smooth animations & scroll effects    |
 
 ---
-
-
-
