@@ -6,7 +6,7 @@
 
 > 👨‍⚕️ Patients can **book appointments**, **video call doctors**, and **manage sessions**, while doctors can manage their availability — all in real-time and securely via **Clerk authentication**.
 
----
+----
 
 ## 🧠 Key Features
 
