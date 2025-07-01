@@ -10,6 +10,9 @@ const inter = Inter({subsets:["latin"]})
 export const metadata = {
   title: "MediMeet- Doctor Appointment App",
   description: "Connect with Doctors anytime,anywhere",
+  icons: {
+    icon: "/logo-single.png",
+  },
 };
 
 export default function RootLayout({ children }) {
