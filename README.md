@@ -6,6 +6,8 @@ A full-stack SaaS-based doctor-patient video consultation platform that enables 
   <img src="/public/cover.gif" alt="MediMeet Banner" width="100%" />
 </p>
 
+---
+
 ## 🚀 Features
 
 - 🏥 **3 Interactive Dashboards** – Admin, Doctor, and Patient
