@@ -2,7 +2,9 @@
 
 A full-stack SaaS-based doctor-patient video consultation platform that enables secure emergency video calls, appointment booking, and subscription-based access to healthcare professionals from the comfort of your home.
 
-![MediMeet Banner](public/coverimage.gif)
+<p align="center">
+  <img src="/public/cover.gif" alt="MediMeet Banner" width="100%" />
+</p>
 
 ## 🚀 Features
 
@@ -24,12 +26,6 @@ A full-stack SaaS-based doctor-patient video consultation platform that enables 
 |----------------|------------------|--------------|-----------|-------------|-------------|
 | Next.js 15     | Next.js App Router | Neon Postgres | Clerk     | Vonage      | Tailwind CSS, shadcn/ui |
 | React          | Server Actions   | Prisma ORM   | JWT       | WebRTC      | Responsive UI |
-
----
-
-## 📸 Screenshots
-
-> *Add images of Admin, Doctor & Patient dashboards, and video call UI here*
 
 ---
 
