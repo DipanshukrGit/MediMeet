@@ -38,7 +38,7 @@ A full-stack SaaS-based doctor-patient video consultation platform that enables 
 - **Doctor**: Set schedule, accept appointments, consult patients
 - **Patient**: Book appointments, recharge credits, talk to doctors
 
----
+----
 
 ## 📦 Installation
 
