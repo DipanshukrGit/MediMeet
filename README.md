@@ -40,9 +40,3 @@ A full-stack SaaS-based doctor-patient video consultation platform that enables 
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/medimeet.git
-cd medimeet
-npm install
