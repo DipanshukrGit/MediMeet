@@ -30,7 +30,7 @@ A full-stack SaaS-based doctor-patient video consultation platform that enables 
 | Next.js 15     | Next.js App Router | Neon  | Clerk     | Vonage      | Tailwind CSS, shadcn/ui |
 | React          | Server Actions   | Prisma    | JWT       |      | Responsive UI |
 
----
+----
 
 ## 🔐 Roles & Permissions
 
